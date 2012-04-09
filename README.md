@@ -10,11 +10,10 @@ Deps
 The following scripts are currently supported.
 
 * solarize -- `babushka solarize` -- Runs all of the following
-  Linux only:
-  -----------
-    + solarize linux console -- Sets the Linux ANSI colors when using a Linux console (not GUI terminal) [TODO] 
-    + solarize gnome-terminal profile -- Imports the solarized gnome-terminal profile using gconftool-2
-    + solarize gnome-terminal default -- Sets the Solarize profile as default for new terms
+  - Linux only:
+    1. solarize linux console -- Sets the Linux ANSI colors when using a Linux console (not GUI terminal) [TODO] 
+    2. solarize gnome-terminal profile -- Imports the solarized gnome-terminal profile using gconftool-2
+    3. solarize gnome-terminal default -- Sets the Solarize profile as default for new terms
 
 Contributing
 ------------
