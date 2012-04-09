@@ -21,4 +21,4 @@ Want to contribute? Then stick a [fork][] in it and eat!
 
 
 [babushka]: http://babushka.me/ "Automation tool to run mini-recipes to automate everyday tasks"
-[fork]: https://github.com/dcode/babushka-deps/fork "Fork me on GitHub!"
+[fork]: https://github.com/dcode/babushka-deps/ "Fork me on GitHub!"
