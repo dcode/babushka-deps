@@ -1,0 +1,4 @@
+# ~/.bash_login
+if [ "$TERM" = "linux" ]; then
+    solarized
+fi
